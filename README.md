@@ -3,6 +3,6 @@
 
 <h4>KEY FEATURES</h4>
 <li>Dataset: The dataset is highly imbalanced with a very small percentage of fraud cases.
-Data Preprocessing: Data is cleaned, scaled, and features are engineered to enhance model performance.
+<li>Data Preprocessing: Data is cleaned, scaled, and features are engineered to enhance model performance.
 Modeling: Various machine learning models are implemented, including :-  <b>Support Vector Machine</b> and <b>Decision Trees</b>
-</li>
+
